@@ -1,0 +1,4 @@
+node_modules/
+.tmp/
+cukereport.json/
+cucumber_report.html/
