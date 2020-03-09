@@ -1,6 +1,4 @@
 # Which-Test-Framework
-<<<<<<< HEAD
-=======
 
 Pre-Requisites
 * Install Java Development Kit.
