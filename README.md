@@ -10,4 +10,4 @@ Pre-Requisites
 * npm install.
 * webdriver-manager update
 * webdriver-manager start
-* Run test type protractor protractor.conf.js and press enter 
+* Run test type "protractor protractor.conf.js" and press enter 
