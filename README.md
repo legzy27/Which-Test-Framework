@@ -15,7 +15,7 @@ Pre-Requisites
 
 # 3 Functional tests necessary for TV Landing Page
 
-* Unit tests: Tests an individual unit of the software to make sure it performs appropriately.
+* Unit tests: Tests individual unit of the software to make sure it performs appropriately.
 
 * Integration Tests: Takes multiple individual units of the software and tests them as a group to make sure they interact
   appropriately.
