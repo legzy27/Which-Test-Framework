@@ -22,4 +22,4 @@ Pre-Requisites
 
 
 * Smoke Tests: Tests the major pieces of the software in a non-comprehensive manner to ensure the software works well enough
-  (or is not riddled with too many issues) to move on to additional tests
+  (or is not riddled with too many issues) to move on to additional tests.
